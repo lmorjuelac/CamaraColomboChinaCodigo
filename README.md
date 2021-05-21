@@ -5,7 +5,8 @@ https://manuelaorjuela.shinyapps.io/AppCamaraColomboChina/
 
 El código está comentado para que sea fácil de entender y está dividido en las mismas secciones que la aplicación. Si en un futuro se quiere mejorar la herramienta o agregar más cosas los siguientes links pueden ser utiles:
 
-1. ¿Cómo hacer una herramienta en shiny? : https://rstudio.github.io/shinydashboard/get_started.html
-2. ¿Cómo publicar la herramienta?: https://www.youtube.com/watch?v=2QstfyGX4ZU
+1. ¿Cómo instalar R y R studio?:https://www.youtube.com/watch?v=D9Bp11iZssc
+2. ¿Cómo hacer una herramienta en shiny? : https://rstudio.github.io/shinydashboard/get_started.html
+3. ¿Cómo publicar la herramienta?: https://www.youtube.com/watch?v=2QstfyGX4ZU
 
-El segundo archivo es un código con todas las gráficas de la aplicación, este archivo es independiente a la aplicación. Por otra parte, el último archivo es la plantilla la cual se genera por medio de visual y la cual es el insumo de la aplicación. ES decir, para poder navegar en la aplicación es indispensable tener la plantilla ya que de lo contrario no se generarían las gráficas.El archivo se denomina "Plantilla2.xlsx".
+El segundo archivo es un código con todas las gráficas de la aplicación, este archivo es independiente a la aplicación. Por otra parte, el último archivo es la plantilla la cual se genera por medio de visual y la cual es el insumo de la aplicación. Es decir, para poder navegar en la aplicación es indispensable tener la plantilla ya que de lo contrario no se generarían las gráficas. El archivo se denomina "Plantilla2.xlsx". Finalmente, esta un documento adjunto el cual es la macro que genera la plantilla y se encuntra en el archivo "Plantilla2Macros.xlsm". 
